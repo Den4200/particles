@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bouncing-balls"
+name = "particles"
 version = "0.1.0"
 description = "A physics simulation of particles!"
 authors = ["Den4200 <dennis@dennispham.me>"]

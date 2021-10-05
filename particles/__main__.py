@@ -1,7 +1,7 @@
 import moderngl
 import numpy as np
 
-from bouncing_balls.window import Window
+from particles.window import Window
 
 PARTICLE_COUNT = 100000
 ACCELERATION = (0, -0.0001)
