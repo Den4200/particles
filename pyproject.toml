@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "particles"
+version = "0.1.0"
+description = "A physics simulation of particles!"
+authors = ["Den4200 <dennis@dennispham.me>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+moderngl = "^5.6.4"
+moderngl-window = "^2.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
